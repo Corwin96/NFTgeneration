@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/NFTgeneration/static/js/main.2cd414b4.chunk.js",
+    "main.js.map": "/NFTgeneration/static/js/main.2cd414b4.chunk.js.map",
+    "runtime-main.js": "/NFTgeneration/static/js/runtime-main.7cc0cdd9.js",
+    "runtime-main.js.map": "/NFTgeneration/static/js/runtime-main.7cc0cdd9.js.map",
+    "static/js/2.50b93685.chunk.js": "/NFTgeneration/static/js/2.50b93685.chunk.js",
+    "static/js/2.50b93685.chunk.js.map": "/NFTgeneration/static/js/2.50b93685.chunk.js.map",
+    "static/js/3.d02b2011.chunk.js": "/NFTgeneration/static/js/3.d02b2011.chunk.js",
+    "static/js/3.d02b2011.chunk.js.map": "/NFTgeneration/static/js/3.d02b2011.chunk.js.map",
+    "index.html": "/NFTgeneration/index.html",
+    "static/js/2.50b93685.chunk.js.LICENSE.txt": "/NFTgeneration/static/js/2.50b93685.chunk.js.LICENSE.txt",
+    "static/media/StickBlack.a4eea261.png": "/NFTgeneration/static/media/StickBlack.a4eea261.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc0cdd9.js",
+    "static/js/2.50b93685.chunk.js",
+    "static/js/main.2cd414b4.chunk.js"
+  ]
+}
