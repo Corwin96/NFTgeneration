@@ -1,0 +1,41 @@
+{
+  "Backgrounds" :
+  {
+    "Blue": "/images/Backgrounds/Blue.png",
+    "Green": "/images/Backgrounds/Green.png",
+    "Red": "/images/Backgrounds/Red.png",
+    "Yellow": "/images/Backgrounds/Yellow.png"
+  },
+  "Bodies":
+  {
+    "Black": "/images/Bodies/StickBlack.png",
+    "White": "/images/Bodies/StickWhite.png"
+  },
+  "Faces":
+  {
+    "Happy": "/images/Faces/HappyFace.png",
+    "Mad": "/images/Faces/MadFace.png",
+    "Sad": "/images/Faces/SadFace.png",
+    "Wtf": "/images/Faces/WtfFace.png"
+  },
+  "Hats":
+  {
+    "Brown": "/images/Hats/BrownHat.png",
+    "Cyan": "/images/Hats/CyanHat.png",
+    "Pink": "/images/Hats/PinkHat.png"
+  },
+  "Shields":
+  {
+    "Round": "/images/Shields/RoundShield.png",
+    "Square": "/images/Shields/SquareShield.png"
+  },
+  "Weapons":
+  {
+    "Spear": "/images/Shields/Spear.png",
+    "Sword": "/images/Shields/Sword.png"
+  },
+  "MissedRoll":
+  {
+    "Empty": "/images/default.png"
+  }
+}
